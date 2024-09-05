@@ -1,0 +1,12 @@
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\bin\Debug\net8.0\PatientCareSubsystem.Data.deps.json
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\bin\Debug\net8.0\PatientCareSubsystem.Data.dll
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\bin\Debug\net8.0\PatientCareSubsystem.Data.pdb
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.csproj.AssemblyReference.cache
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.AssemblyInfoInputs.cache
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.AssemblyInfo.cs
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.dll
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\refint\PatientCareSubsystem.Data.dll
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\PatientCareSubsystem.Data.pdb
+C:\Users\Kenneth Malgas\Desktop\nmu\3rd year\ONT3010\PatientCareSubsystem\PatientCareSubsystem.Data\obj\Debug\net8.0\ref\PatientCareSubsystem.Data.dll
