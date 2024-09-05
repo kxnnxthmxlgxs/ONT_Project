@@ -1,0 +1,12 @@
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\bin\Debug\net8.0\ProjectPractice.Data.deps.json
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\bin\Debug\net8.0\ProjectPractice.Data.dll
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\bin\Debug\net8.0\ProjectPractice.Data.pdb
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.AssemblyInfoInputs.cache
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.AssemblyInfo.cs
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.csproj.CoreCompileInputs.cache
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.dll
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\refint\ProjectPractice.Data.dll
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.pdb
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ref\ProjectPractice.Data.dll
+C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice.Data\obj\Debug\net8.0\ProjectPractice.Data.csproj.AssemblyReference.cache
