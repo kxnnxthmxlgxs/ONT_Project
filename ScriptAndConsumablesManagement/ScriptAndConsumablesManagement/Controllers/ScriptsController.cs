@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using ProjectPractice.Data.Models.Domain;
 using ScriptAndConsumablesManagement.Data.Models;
 using ScriptAndConsumablesManagement.Data.Models.ViewModels;
 using ScriptAndConsumablesManagement.Data.Repository;

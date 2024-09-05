@@ -9,83 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectPractice.UI
 build_property.RootNamespace = ProjectPractice.UI
-build_property.ProjectDir = C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice\
+build_property.ProjectDir = C:\Users\sodie\Desktop\Combine\ONT_Project\ProjectPractice\ProjectPractice\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\naido\OneDrive\Documents\Projects\ProjectPractice\ProjectPractice
+build_property.MSBuildProjectDirectory = C:\Users\sodie\Desktop\Combine\ONT_Project\ProjectPractice\ProjectPractice
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Home/Index.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Home/Privacy.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/PatientInstruction/Add.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/PatientInstruction/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluc3RydWN0aW9uXEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/PatientInstruction/DisplayAll.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/PatientInstruction/DisplayAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluc3RydWN0aW9uXERpc3BsYXlBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Schedule/Add.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Schedule/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Schedule/Dashboard.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Schedule/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Schedule/Delete.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Schedule/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Schedule/DisplayAll.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Schedule/DisplayAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGlzcGxheUFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Schedule/Edit.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Schedule/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Script/Add.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Script/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Script/Delete.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Script/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Script/DisplayAll.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Script/DisplayAll.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XERpc3BsYXlBbGwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Script/Edit.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Script/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Shared/Error.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/_ViewImports.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/_ViewStart.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/naido/OneDrive/Documents/Projects/ProjectPractice/ProjectPractice/Views/Shared/_Layout.cshtml]
+[C:/Users/sodie/Desktop/Combine/ONT_Project/ProjectPractice/ProjectPractice/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6k78gzmq9c

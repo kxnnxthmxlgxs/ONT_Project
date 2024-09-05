@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScriptAndConsumablesManagement.Data.Models
+namespace ProjectPractice.Data.Models.Domain
 {
     public class Doctor
     {
@@ -14,8 +14,8 @@ namespace ScriptAndConsumablesManagement.Data.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string ContactNumber { get; set; }
-        public string Email {  get; set; }
+        public string Email { get; set; }
         public string Address1 { get; set; }
-        public string? Address2 { get; set; }
+        public string Address2 { get; set; }
     }
 }

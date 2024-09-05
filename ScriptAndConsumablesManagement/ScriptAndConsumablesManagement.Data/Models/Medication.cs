@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScriptAndConsumablesManagement.Data.Models
+namespace ProjectPractice.Data.Models.Domain
 {
     public class Medication
     {

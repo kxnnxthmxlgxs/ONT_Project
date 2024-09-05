@@ -1,22 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\subsystemd\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\repository\\scriptdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\repository\\scriptdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\subsystemd\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\controllers\\scriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\controllers\\scriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\subsystemd\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\models\\viewmodels\\scriptstatuscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\models\\viewmodels\\scriptstatuscountviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\subsystemd\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\scripts\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\scripts\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\scripts\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistr.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\scripts\\displayscriptlistn.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\script\\displayall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\script\\displayall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\controllers\\scriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\controllers\\scriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\controllers\\patientinstructioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\controllers\\patientinstructioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\repository\\scriptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\repository\\scriptdetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\repository\\scriptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\repository\\scriptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\repository\\schedulerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\repository\\schedulerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement.data\\repository\\patientinstructionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F607965F-5A1F-45D3-B76F-3B731F9576A6}|ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj|solutionrelative:scriptandconsumablesmanagement.data\\repository\\patientinstructionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\script\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\script\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\script\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\script\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|c:\\users\\sodie\\desktop\\combine\\ont_project\\scriptandconsumablesmanagement\\scriptandconsumablesmanagement\\views\\script\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BBB984-B444-4FB4-B69D-9D56E9AAB376}|ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj|solutionrelative:scriptandconsumablesmanagement\\views\\script\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,51 +107,236 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ScriptStatusCountViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Models\\ViewModels\\ScriptStatusCountViewModel.cs",
-              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Models\\ViewModels\\ScriptStatusCountViewModel.cs",
-              "ToolTip": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Models\\ViewModels\\ScriptStatusCountViewModel.cs",
-              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Models\\ViewModels\\ScriptStatusCountViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:49:47.566Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T13:00:20.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:49:06.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayScriptListR.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListR.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListR.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListR.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListR.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:48:23.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DisplayScriptListP.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListP.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListP.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListP.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListP.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:48:19.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisplayScriptListN.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListN.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListN.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListN.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Scripts\\DisplayScriptListN.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T12:48:13.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
               "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Scripts\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-03T12:48:37.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScriptDetailsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailsRepository.cs",
-              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailsRepository.cs",
-              "ToolTip": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailsRepository.cs",
-              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailsRepository.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:48:25.352Z",
+              "WhenOpened": "2024-09-05T12:47:46.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ScriptsController.cs",
-              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScriptsController.cs",
-              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Controllers\\ScriptsController.cs",
-              "ToolTip": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScriptsController.cs",
-              "RelativeToolTip": "ScriptAndConsumablesManagement\\Controllers\\ScriptsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Program.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T12:37:17.535Z"
+              "WhenOpened": "2024-09-05T12:04:21.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScriptController.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScriptController.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Controllers\\ScriptController.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScriptController.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Controllers\\ScriptController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:04:17.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:04:07.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientInstructionController.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\PatientInstructionController.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Controllers\\PatientInstructionController.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Controllers\\PatientInstructionController.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Controllers\\PatientInstructionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:04:04.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScriptDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailRepo.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailRepo.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailRepo.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptDetailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:03:54.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScriptRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptRepo.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptRepo.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScriptRepo.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Repository\\ScriptRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:03:29.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScheduleRepo.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Repository\\ScheduleRepo.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\ScheduleRepo.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Repository\\ScheduleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:03:22.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientInstructionRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\PatientInstructionRepo.cs",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement.Data\\Repository\\PatientInstructionRepo.cs",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\Repository\\PatientInstructionRepo.cs",
+              "RelativeToolTip": "ScriptAndConsumablesManagement.Data\\Repository\\PatientInstructionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:01:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Script\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Edit.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Script\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:59:52.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Script\\DisplayAll.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\DisplayAll.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Script\\DisplayAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:59:46.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Script\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Delete.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Script\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:59:42.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Add.cshtml",
+              "RelativeDocumentMoniker": "ScriptAndConsumablesManagement\\Views\\Script\\Add.cshtml",
+              "ToolTip": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\Views\\Script\\Add.cshtml",
+              "RelativeToolTip": "ScriptAndConsumablesManagement\\Views\\Script\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T11:59:39.202Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1836,19 +1836,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\naido\\.nuget\\packages\\": {}
+    "C:\\Users\\sodie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
+      "projectUniqueName": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
       "projectName": "ProjectPractice.UI",
-      "projectPath": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
-      "packagesPath": "C:\\Users\\naido\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\obj\\",
+      "projectPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
+      "packagesPath": "C:\\Users\\sodie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ProjectPractice\\ProjectPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\naido\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sodie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1863,8 +1863,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj": {
-              "projectPath": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj"
+            "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj": {
+              "projectPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj"
             }
           }
         }
@@ -1902,7 +1902,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

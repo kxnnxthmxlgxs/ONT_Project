@@ -1,4 +1,5 @@
-﻿using ScriptAndConsumablesManagement.Data.Models;
+﻿using ProjectPractice.Data.Models.Domain;
+using ScriptAndConsumablesManagement.Data.Models;
 using ScriptAndConsumablesManagement.Data.Models.ViewModels;
 using System;
 using System.Collections.Generic;

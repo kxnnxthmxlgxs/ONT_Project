@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|c:\\users\\naido\\onedrive\\documents\\projects\\projectpractice\\projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|solutionrelative:projectpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|c:\\users\\naido\\onedrive\\documents\\projects\\projectpractice\\projectpractice\\controllers\\scriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|solutionrelative:projectpractice\\controllers\\scriptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|c:\\users\\naido\\onedrive\\documents\\projects\\projectpractice\\projectpractice\\projectpractice.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EA47E32-49A8-4F76-A36F-8ECB93EBCDBC}|ProjectPractice\\ProjectPractice.UI.csproj|solutionrelative:projectpractice\\projectpractice.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3068430-B71B-4C82-A238-DA79B3884371}|ProjectPractice.Data\\ProjectPractice.Data.csproj|c:\\users\\naido\\onedrive\\documents\\projects\\projectpractice\\projectpractice.data\\projectpractice.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3068430-B71B-4C82-A238-DA79B3884371}|ProjectPractice.Data\\ProjectPractice.Data.csproj|solutionrelative:projectpractice.data\\projectpractice.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScriptController.cs",
+              "DocumentMoniker": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\Controllers\\ScriptController.cs",
+              "RelativeDocumentMoniker": "ProjectPractice\\Controllers\\ScriptController.cs",
+              "ToolTip": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\Controllers\\ScriptController.cs",
+              "RelativeToolTip": "ProjectPractice\\Controllers\\ScriptController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:30:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\Program.cs",
+              "RelativeToolTip": "ProjectPractice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T11:28:56.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectPractice.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj",
+              "RelativeDocumentMoniker": "ProjectPractice.Data\\ProjectPractice.Data.csproj",
+              "ToolTip": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice.Data\\ProjectPractice.Data.csproj",
+              "RelativeToolTip": "ProjectPractice.Data\\ProjectPractice.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T11:25:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectPractice.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
+              "RelativeDocumentMoniker": "ProjectPractice\\ProjectPractice.UI.csproj",
+              "ToolTip": "C:\\Users\\naido\\OneDrive\\Documents\\Projects\\ProjectPractice\\ProjectPractice\\ProjectPractice.UI.csproj",
+              "RelativeToolTip": "ProjectPractice\\ProjectPractice.UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T11:25:36.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

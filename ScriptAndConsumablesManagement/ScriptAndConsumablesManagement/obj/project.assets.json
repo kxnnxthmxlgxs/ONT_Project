@@ -1844,11 +1844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj",
+      "projectUniqueName": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj",
       "projectName": "ScriptAndConsumablesManagement",
-      "projectPath": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj",
+      "projectPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.csproj",
       "packagesPath": "C:\\Users\\sodie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\obj\\",
+      "outputPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sodie\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1866,8 +1866,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj": {
-              "projectPath": "C:\\Users\\sodie\\Desktop\\SubsystemD\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj"
+            "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj": {
+              "projectPath": "C:\\Users\\sodie\\Desktop\\Combine\\ONT_Project\\ScriptAndConsumablesManagement\\ScriptAndConsumablesManagement.Data\\ScriptAndConsumablesManagement.Data.csproj"
             }
           }
         }
