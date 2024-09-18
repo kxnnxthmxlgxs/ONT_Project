@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0m6K/uBn4fvoBj+GAkYfnUOhB83W2N7Or54dFXMqNw7u0mT2beF88D/qBFiDq5/xBT2DTFjjHV5E3dISmmlKHw==",
+  "dgSpecHash": "vjiEScgjD6cxJ7bKTiekwo7Q6NYHsnUVMDukShjWToexsi06QS0vav93WG11dn6bymVwYtWN7Ke/j2ubvb2hRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj",
+  "projectFilePath": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\ONT_Project\\PatientCareSubsystem\\PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenneth Malgas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Kenneth Malgas\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
