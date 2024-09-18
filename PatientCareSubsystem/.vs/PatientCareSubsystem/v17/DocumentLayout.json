@@ -3,72 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\isisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\isisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\inurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\inurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\nurse\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\nurse\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\nurseschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\nurseschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\inurseschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\inurseschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\nurseschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\nurseschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\sisternursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\sisternursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,16 +31,76 @@
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\news.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\nurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\inurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\inurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\sisternursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\sisternursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\nursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\sisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\sisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\isisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\isisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\inurseschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\inurseschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\sisternurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\sisternurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\nurseschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\nurseschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\nurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\nurse\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\nurse\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\landingpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\dataaccess\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\landingpage\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\landingpage\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\sisternurse\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\sisternurse\\displayall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\nurseschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\controllers\\nurseschedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\nurseschedule\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\nurseschedule\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\sisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\repository\\sisternurserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\repository\\nurseschedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -147,10 +151,6 @@
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\sisternurse\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.data\\models\\domain\\sisternurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E21765BE-5F08-4E8D-8FAA-EE432A3E0F0D}|PatientCareSubsystem.Data\\PatientCareSubsystem.Data.csproj|solutionrelative:patientcaresubsystem.data\\models\\domain\\sisternurse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\patientcaresubsystem\\patientcaresubsystem.ui\\views\\sisternurse\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\sisternurse\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -166,219 +166,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGEAAABhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T02:58:16.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Program.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Program.cs",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T19:20:07.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NurseController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T23:01:58.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T02:57:01.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "INurseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T20:22:00.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ISisterNurseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:43:47.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NurseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:03:34.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Home.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
-              "ViewState": "AQIAAKoAAAAAAAAAAAAAAL0AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T13:52:08.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LandingPageController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T13:49:35.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\appsettings.json",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-25T18:53:49.032Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "INurseScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T21:27:49.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Nurse.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:10:11.15Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "NurseSchedule.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T21:23:00.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SqlDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:19:08.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SisterNurseController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:57:30.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T13:54:33.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Doctors.cshtml",
               "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Doctors.cshtml",
               "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Doctors.cshtml",
@@ -391,7 +183,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Home.cshtml",
+              "ViewState": "AQIAAEcCAAAAAAAAAAAqwFECAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T13:52:08.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NurseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\NurseRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:03:34.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "News.cshtml",
               "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\News.cshtml",
               "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\News.cshtml",
@@ -404,150 +222,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Services.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAAADcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T13:53:08.628Z",
+              "WhenOpened": "2024-08-27T02:58:16.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-31T13:52:44.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Program.cs",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T14:32:15.055Z",
+              "WhenOpened": "2024-08-25T19:20:07.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T01:41:11.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:01:23.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "DisplayAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAADgvx8AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T23:24:33.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:05:53.163Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetById.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:07:26.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ISqlDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:51:51.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DisplayAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T21:44:48.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DisplayAll.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvycAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:04:39.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 2,
               "Title": "NurseScheduleController.cs",
               "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\NurseScheduleController.cs",
               "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\NurseScheduleController.cs",
@@ -560,20 +261,69 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAADwvyMAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T14:43:28.243Z",
+              "DocumentIndex": 8,
+              "Title": "INurseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\INurseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:22:00.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T01:41:11.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\AboutUs.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T13:52:44.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SisterNurseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\SisterNurseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:57:30.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NurseController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\NurseController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T23:01:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "SisterNurseRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\SisterNurseRepository.cs",
               "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\SisterNurseRepository.cs",
@@ -581,64 +331,35 @@
               "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\SisterNurseRepository.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:45:25.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:45:25.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "NurseScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
-              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "DocumentIndex": 13,
+              "Title": "ISisterNurseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\ISisterNurseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T21:29:42.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:43:47.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T21:42:06.482Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "INurseScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\INurseScheduleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:27:49.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvyEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T21:41:43.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
-              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
-              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:04:09.736Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 15,
               "Title": "SisterNurse.cs",
               "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\SisterNurse.cs",
               "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Models\\Domain\\SisterNurse.cs",
@@ -646,8 +367,259 @@
               "RelativeToolTip": "PatientCareSubsystem.Data\\Models\\Domain\\SisterNurse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T03:41:45.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T03:41:45.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NurseSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Models\\Domain\\NurseSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:23:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Nurse.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Models\\Domain\\Nurse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T14:10:11.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T02:57:01.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LandingPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\LandingPageController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:49:35.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\appsettings.json",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T18:53:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\DataAccess\\SqlDataAccess.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:19:08.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T13:54:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\LandingPage\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-31T13:53:08.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T14:32:15.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:01:23.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\DisplayAll.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAADgvx8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T23:24:33.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:05:53.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\Nurse\\GetById.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:07:26.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ISqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\DataAccess\\ISqlDataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:51:51.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\DisplayAll.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T21:44:48.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DisplayAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\DisplayAll.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:04:39.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvyMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T14:43:28.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NurseScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
+              "RelativeToolTip": "PatientCareSubsystem.Data\\Repository\\NurseScheduleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T21:29:42.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T21:42:06.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\NurseSchedule\\Add.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T21:41:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
+              "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T04:04:09.736Z"
             },
             {
               "$type": "Document",
@@ -659,8 +631,7 @@
               "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\SisterNurse\\GetById.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T04:05:15.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T04:05:15.154Z"
             },
             {
               "$type": "Document",
@@ -672,8 +643,7 @@
               "RelativeToolTip": "PatientCareSubsystem.UI\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T01:41:20.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T01:41:20.431Z"
             }
           ]
         }

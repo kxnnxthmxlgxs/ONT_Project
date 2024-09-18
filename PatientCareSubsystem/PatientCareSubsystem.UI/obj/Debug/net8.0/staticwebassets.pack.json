@@ -21,6 +21,70 @@
       "PackagePath": "staticwebassets\\home-page-doctors-image.jpg"
     },
     {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\article1.png",
+      "PackagePath": "staticwebassets\\images\\article1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\article2.png",
+      "PackagePath": "staticwebassets\\images\\article2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\article3.png",
+      "PackagePath": "staticwebassets\\images\\article3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\article4.png",
+      "PackagePath": "staticwebassets\\images\\article4.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\doctor1.png",
+      "PackagePath": "staticwebassets\\images\\doctor1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\doctor2.png",
+      "PackagePath": "staticwebassets\\images\\doctor2.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\doctor3.png",
+      "PackagePath": "staticwebassets\\images\\doctor3.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\clock.png",
+      "PackagePath": "staticwebassets\\images\\icons\\clock.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\envelope.png",
+      "PackagePath": "staticwebassets\\images\\icons\\envelope.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\heart.png",
+      "PackagePath": "staticwebassets\\images\\icons\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\location.png",
+      "PackagePath": "staticwebassets\\images\\icons\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\phone-call.png",
+      "PackagePath": "staticwebassets\\images\\icons\\phone-call.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\icons\\show.png",
+      "PackagePath": "staticwebassets\\images\\icons\\show.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\peakyblinderlogo.png",
+      "PackagePath": "staticwebassets\\images\\peakyblinderlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\services-image1.png",
+      "PackagePath": "staticwebassets\\images\\services-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\images\\services-image2.png",
+      "PackagePath": "staticwebassets\\images\\services-image2.png"
+    },
+    {
       "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
@@ -255,6 +319,10 @@
     {
       "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\peaky-blinders-logo.png",
       "PackagePath": "staticwebassets\\peaky-blinders-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\PatientCareSubsystem\\PatientCareSubsystem.UI\\wwwroot\\services-list-bg.png",
+      "PackagePath": "staticwebassets\\services-list-bg.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PatientCareSubsystem.UI.Microsoft.AspNetCore.StaticWebAssets.props",
