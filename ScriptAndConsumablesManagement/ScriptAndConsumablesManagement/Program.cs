@@ -1,5 +1,5 @@
-using ProjectPractice.Data.Repository;
 using ScriptAndConsumablesManagement.Data.DataAccess;
+using ScriptAndConsumablesManagement.Data.Models.Services;
 using ScriptAndConsumablesManagement.Data.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,11 +10,8 @@ builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
 //Rozario's Services
 builder.Services.AddTransient<IScriptDetailsRepo, ScriptDetailsRepo>();
 builder.Services.AddTransient<IWardConsumableRepository, WardConsumableRepository>();
-//Ryan's Services
-builder.Services.AddTransient<IPatientInstructionRepo, PatientInstructionRepo>();
-builder.Services.AddTransient<IScriptRepo, ScriptRepo>();
-builder.Services.AddTransient<IScriptDetailRepo, ScriptDetailRepo>();
-builder.Services.AddTransient<IScheduleRepo, ScheduleRepo>();
+builder.Services.AddScoped<PDFService>();
+
 
 var app = builder.Build();
 

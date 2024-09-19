@@ -1,5 +1,5 @@
-﻿using ProjectPractice.Data.Models.Domain;
-using ScriptAndConsumablesManagement.Data.Models;
+﻿using ScriptAndConsumablesManagement.Data.Models;
+using ScriptAndConsumablesManagement.Data.Models.Domain;
 using ScriptAndConsumablesManagement.Data.Models.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -12,7 +12,9 @@ namespace ScriptAndConsumablesManagement.Data.Repository
     public interface IScriptDetailsRepo
     {
         Task<bool> UpdateAsync(Script Script);
+        Task<bool> ReceivedScriptsAsync(Script Script);
         Task<ScriptDetailsViewModel> GetByIdAsync(int id);
         Task<IEnumerable<ScriptListViewModel>> GetAllAsync(char status);
+        Task<IEnumerable<ScriptListViewModel>> GetByDateAsync(DateTime SearchDate);
     }
 }

@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ProjectPractice.Data.Models.Domain;
+using ScriptAndConsumablesManagement.Data.Models.Domain;
 
 namespace ScriptAndConsumablesManagement.Data.Repository
 {
@@ -34,6 +34,23 @@ namespace ScriptAndConsumablesManagement.Data.Repository
                 return false;
             }
         }
+        public async Task<bool> ReceivedScriptsAsync(Script script)
+        {
+            try
+            {
+                var parameters = new
+                {
+                    Id = script.ScriptID,
+                };
+                await _db.SaveData("sp_ReceivedScripts", parameters);
+                return true;
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Update failed for ScriptDetailID: " + script.ScriptID + " Error: " + ex.Message);
+                return false;
+            }
+        }
         public async Task<ScriptDetailsViewModel> GetByIdAsync(int id)
         {
             IEnumerable<ScriptDetailsViewModel> result = await _db.GetData<ScriptDetailsViewModel, dynamic>("DisplayNewScriptDetail", new { ID = id });
@@ -42,6 +59,10 @@ namespace ScriptAndConsumablesManagement.Data.Repository
         public async Task<IEnumerable<ScriptListViewModel>> GetAllAsync(char status)
         {
             return await _db.GetData<ScriptListViewModel, dynamic>("ListAllNewScripts", new { Status = status });
+        }
+        public async Task<IEnumerable<ScriptListViewModel>> GetByDateAsync(DateTime SearchDate)
+        {
+            return await _db.GetData<ScriptListViewModel, dynamic>("SearchByDate", new { SearchDate = SearchDate });
         }
     }
 }

@@ -9,127 +9,87 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ScriptAndConsumablesManagement
 build_property.RootNamespace = ScriptAndConsumablesManagement
-build_property.ProjectDir = C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement\
+build_property.ProjectDir = C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement
+build_property.MSBuildProjectDirectory = C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Consumables/Dashboard.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Consumables/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtYWJsZXNcRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Consumables/Details.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Consumables/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29uc3VtYWJsZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Home/Index.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Home/Privacy.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/PatientInstruction/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluc3RydWN0aW9uXEFkZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/PatientInstruction/DisplayAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEluc3RydWN0aW9uXERpc3BsYXlBbGwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Schedule/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcQWRkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Schedule/Dashboard.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGFzaGJvYXJkLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Schedule/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Schedule/DisplayAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRGlzcGxheUFsbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Schedule/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NoZWR1bGVcRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/Dashboard.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DetailsN.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DetailsN.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEZXRhaWxzTi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DetailsP.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DetailsP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEZXRhaWxzUC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListN.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DetailsR.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEZXRhaWxzUi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListN.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEaXNwbGF5U2NyaXB0TGlzdE4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListP.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListP.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEaXNwbGF5U2NyaXB0TGlzdFAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListR.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Scripts/DisplayScriptListR.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0c1xEaXNwbGF5U2NyaXB0TGlzdFIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Script/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XEFkZC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Script/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Script/DisplayAll.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XERpc3BsYXlBbGwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Script/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2NyaXB0XEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/Error.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_layoutConsumables.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_layoutConsumables.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9sYXlvdXRDb25zdW1hYmxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_LayoutDoctor.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_LayoutDoctor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREb2N0b3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_LayoutScripts.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_LayoutScripts.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTY3JpcHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/_ViewImports.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/_ViewStart.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sodie/Desktop/Combine/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_Layout.cshtml]
+[C:/Users/sodie/Desktop/MyBranch/ONT_Project/ScriptAndConsumablesManagement/ScriptAndConsumablesManagement/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aa7v02oedl

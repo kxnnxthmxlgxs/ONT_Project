@@ -10,7 +10,7 @@ namespace ScriptAndConsumablesManagement.Data.Models.ViewModels
     {
         public int ScriptID { get; set; }
         public string FirstName { get; set; }
-        public string Date { get; set; }
+        public DateTime Date { get; set; }
         public string PatientName { get; set; }
         public char Status { get; set; }
         public string medicationName { get; set; }

@@ -10,7 +10,8 @@ namespace ScriptAndConsumablesManagement.Data.Models.ViewModels
     {
         public int ScriptID { get; set; }
         public string FirstName { get; set; }
-        public string Date { get; set; }
+        public DateTime Date { get; set; }
         public char Status { get; set; }
+        public DateTime SearchDate { get; set; }
     }
 }

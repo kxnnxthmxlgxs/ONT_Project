@@ -35,3 +35,16 @@ C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\Script
 C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\refint\ScriptAndConsumablesManagement.Data.dll
 C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.pdb
 C:\Users\sodie\Desktop\Combine\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ref\ScriptAndConsumablesManagement.Data.dll
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.csproj.AssemblyReference.cache
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.AssemblyInfoInputs.cache
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.AssemblyInfo.cs
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.sourcelink.json
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.dll
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\refint\ScriptAndConsumablesManagement.Data.dll
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ScriptAndConsumablesManagement.Data.pdb
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\bin\Debug\net8.0\ScriptAndConsumablesManagement.Data.deps.json
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\bin\Debug\net8.0\ScriptAndConsumablesManagement.Data.dll
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\bin\Debug\net8.0\ScriptAndConsumablesManagement.Data.pdb
+C:\Users\sodie\Desktop\MyBranch\ONT_Project\ScriptAndConsumablesManagement\ScriptAndConsumablesManagement.Data\obj\Debug\net8.0\ref\ScriptAndConsumablesManagement.Data.dll
