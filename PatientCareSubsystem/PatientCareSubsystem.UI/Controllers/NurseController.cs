@@ -7,6 +7,11 @@ namespace PatientCareSubsystem.UI.Controllers
 {
     public class NurseController : Controller
     {
+        public IActionResult Dashboard()
+        {
+            return View();
+        }
+
         private readonly INurseRepository _nurseRepo;
 
         public NurseController(INurseRepository nurseRepo)
