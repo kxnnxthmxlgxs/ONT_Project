@@ -1,0 +1,5 @@
+CREATE PROCEDURE sp_get_articles
+AS
+BEGIN
+    SELECT * FROM ARTICLES;
+END
