@@ -13,6 +13,7 @@ builder.Services.AddTransient<ISqlDataAccess, SqlDataAccess>();
 builder.Services.AddTransient<INurseRepository, NurseRepository>();
 builder.Services.AddTransient<ISisterNurseRepository, SisterNurseRepository>();
 builder.Services.AddTransient<INurseScheduleRepository, NurseScheduleRepository>();
+builder.Services.AddTransient<IArticleRepository, ArticleRepository>();
 
 // Session and Cache configuration
 builder.Services.AddDistributedMemoryCache();
