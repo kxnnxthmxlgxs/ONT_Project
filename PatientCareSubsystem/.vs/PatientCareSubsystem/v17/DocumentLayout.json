@@ -1,6 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\ONT_Project\\PatientCareSubsystem\\",
+<<<<<<< HEAD
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|c:\\users\\kenneth malgas\\desktop\\nmu\\3rd year\\ont3010\\ont_project\\patientcaresubsystem\\patientcaresubsystem.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,10 +168,14 @@
       "RelativeMoniker": "D:0:0:{FE9F8842-B196-4E6A-811B-26E5EDD2F233}|PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj|solutionrelative:patientcaresubsystem.ui\\views\\nurseschedule\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
+=======
+  "Documents": [],
+>>>>>>> KennethSubSystem
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
+<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -672,6 +677,9 @@
           ]
         }
       ]
+=======
+      "DocumentGroups": []
+>>>>>>> KennethSubSystem
     }
   ]
 }

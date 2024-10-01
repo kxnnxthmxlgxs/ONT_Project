@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PatientCareSubsystem.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+784eaffe39c99dde4f83a77d00482642a8dce751")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56e812d88b5e3b124b82c5133aad4382ea02f62f")]
+>>>>>>> KennethSubSystem
 [assembly: System.Reflection.AssemblyProductAttribute("PatientCareSubsystem.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PatientCareSubsystem.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
