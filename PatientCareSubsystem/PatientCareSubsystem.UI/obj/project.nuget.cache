@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "vjiEScgjD6cxJ7bKTiekwo7Q6NYHsnUVMDukShjWToexsi06QS0vav93WG11dn6bymVwYtWN7Ke/j2ubvb2hRw==",
-=======
   "dgSpecHash": "o33AvSmQZV4mwcBRgIrUcd8ZCoaq1woThZnMjcHVii3Q9yAq3eSn5T5JO4CGFkUAcBGJw6amExUOfRpsJJLwsQ==",
->>>>>>> KennethSubSystem
   "success": true,
   "projectFilePath": "C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\ONT_Project\\PatientCareSubsystem\\PatientCareSubsystem.UI\\PatientCareSubsystem.UI.csproj",
   "expectedPackageFiles": [
@@ -194,5 +190,12 @@
     "C:\\Users\\Kenneth Malgas\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Kenneth Malgas\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Kenneth Malgas\\Desktop\\nmu\\3rd year\\ONT3010\\ONT_Project\\PatientCareSubsystem\\PatientCareSubsystem.UI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
